@@ -7,10 +7,13 @@ font-family: Arial, Helvetica, sans-serif;
 img {
     width: 29%;
 }
-list-style
-* {text-decoration: ;
-    /* border: solid navy 2px; */
-   }
+
+.description {
+    width: 100%; 
+    text-align: left;
+    /* text-align: center; */
+
+}
    
    body {
     background-color: skyblue;
@@ -23,6 +26,7 @@ list-style
    
    p {
        color:black;
+
     
    }
    
@@ -60,4 +64,10 @@ list-style
        justify-content:space-around;
        /* border: red solid 2px; */
        padding-left: 0px;
+   }
+
+   footer {
+    display: flex;
+    justify-content:space-evenly;
+
    }
