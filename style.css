@@ -12,6 +12,7 @@ img {
     width: 100%; 
     text-align: left;
     /* text-align: center; */
+    white-space: pre-line;
 
 }
    
